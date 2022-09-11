@@ -1,0 +1,11 @@
+.chart {
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 23px 8px 20px -5px rgba(211,211,243,1);
+  -webkit-box-shadow: 23px 8px 20px -5px rgba(211,211,243,1);
+  -moz-box-shadow: 23px 8px 20px -5px rgba(211,211,243,1);
+}
+
+.chartTitle {
+  margin-bottom: 20px;
+}
